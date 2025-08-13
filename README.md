@@ -132,28 +132,28 @@ pyinstaller -F -w SIP_calculator.py
 
 ### Jupyter Notebook
 The project includes a Jupyter notebook version (`SIP_calculator.ipynb`) for:
-- Interactive development
-- Code experimentation
-- Educational purposes
+- Matplotlib Version
+- Plotly Version
+- To provide alternative if you do not want to download the .exe file
 
 ## 📈 Example Calculations
 
 ### SIP Example
-- **Monthly Investment**: ₹10,000
+- **Monthly Investment**: $10,000
 - **Tenure**: 10 years
 - **Expected Return**: 12% per annum
 - **Result**:
-  - Total Invested: ₹12,00,000
-  - Maturity Value: ₹23,23,391
-  - Wealth Gained: ₹11,23,391
+  - Total Invested: $12,00,000
+  - Maturity Value: $23,23,391
+  - Wealth Gained: $11,23,391
 
 ### Lump Sum Example
-- **Investment Amount**: ₹1,00,000
+- **Investment Amount**: $1,00,000
 - **Tenure**: 10 years
 - **Expected Return**: 12% per annum
 - **Result**:
-  - Maturity Value: ₹3,10,585
-  - Wealth Gained: ₹2,10,585
+  - Maturity Value: $3,10,585
+  - Wealth Gained: $2,10,585
 
 ## 🤝 Contributing
 
@@ -162,10 +162,6 @@ The project includes a Jupyter notebook version (`SIP_calculator.ipynb`) for:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
